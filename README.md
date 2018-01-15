@@ -89,6 +89,13 @@ https://developer.android.com/ndk/guides/audio/android-extensions.html
 
 E na minha ContentActivity, eu pego o contato vindo do meu adapter através do onclick, e faço uma verificação se a intente está nula e depois seto os meus componentes da view utilizando o padrão android extension deixando o código mais limpo e fácil de entender conforme a figura abaixo:
 
+![captura de tela de 2018-01-15 18-18-29](https://user-images.githubusercontent.com/5742609/34960110-a8c3fd96-fa20-11e7-81d2-f09c6f25cd3b.png)
+
+
+E aqui chegamos ao fim do nosso sistema, um sistema simples mais muito prático para o aprendizado para quen queira começar a programar utilizando kotlin, aqui utilizamos vários framework que são utilizados em projetos profissionais, como rxjava, mvp, android extension, gradle , retrofit etc.
+
+qualquer dúvida ou sugestão meu email é:
+enzo.carvalho.teles@gmail.com
 
 
 
