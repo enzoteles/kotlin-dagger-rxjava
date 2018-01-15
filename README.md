@@ -87,6 +87,10 @@ se vocês prestarem atenção no código ele está limpo e não tem todo aquela 
 
 https://developer.android.com/ndk/guides/audio/android-extensions.html
 
+E na minha ContentActivity, eu pego o contato vindo do meu adapter através do onclick, e faço uma verificação se a intente está nula e depois seto os meus componentes da view utilizando o padrão android extension deixando o código mais limpo e fácil de entender conforme a figura abaixo:
+
+
+
 
 
 
