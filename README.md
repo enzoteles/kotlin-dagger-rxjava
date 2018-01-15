@@ -71,6 +71,10 @@ conforme a figura abaixo:
 
 ![captura de tela de 2018-01-15 18-00-57](https://user-images.githubusercontent.com/5742609/34959581-4b5db90a-fa1e-11e7-8a82-d50ca7674f30.png)
 
+No interactor utilizamos o retrofit junto com rxjava e o padrão Observable para pegar a lista de contatos do Json e depois retorna a lista de contatos para o presenter. conforme a figura abaixo:
+
+
+
 
  
  
