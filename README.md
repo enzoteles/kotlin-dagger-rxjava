@@ -64,6 +64,12 @@
 
  E na MainActivity , específico no onCreate instanciamos o presenter como o dagger conforme a figura abaixo:
  
+ ![captura de tela de 2018-01-15 17-56-10](https://user-images.githubusercontent.com/5742609/34959490-e1b45dec-fa1d-11e7-89c3-aa295d63e965.png)
+
+e com isso chamaos o método callPresenter, nesse método instanciamos o interactor via dagger onde chamaos o método resultMsg 
+conforme a figura abaixo: 
+
+ 
  
 
   
