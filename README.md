@@ -73,6 +73,11 @@ conforme a figura abaixo:
 
 No interactor utilizamos o retrofit junto com rxjava e o padrão Observable para pegar a lista de contatos do Json e depois retorna a lista de contatos para o presenter. conforme a figura abaixo:
 
+![captura de tela de 2018-01-15 18-05-25](https://user-images.githubusercontent.com/5742609/34959680-ba94dad8-fa1e-11e7-823f-f90ae1020111.png)
+
+O presenter vai enviar a lista de contatos para a view no método resultMsgView que setará no adapter fazendo o bind dos componentes.
+
+
 
 
 
