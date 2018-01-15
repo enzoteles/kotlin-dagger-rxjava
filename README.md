@@ -62,6 +62,9 @@
   
   ![captura de tela de 2018-01-15 17-52-27](https://user-images.githubusercontent.com/5742609/34959313-19f0eb22-fa1d-11e7-966e-04f4a85e1ec3.png)
 
+ E na MainActivity , específico no onCreate instanciamos o presenter como o dagger conforme a figura abaixo:
+ 
+ 
 
   
 
