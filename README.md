@@ -77,6 +77,12 @@ No interactor utilizamos o retrofit junto com rxjava e o padrão Observable para
 
 O presenter vai enviar a lista de contatos para a view no método resultMsgView que setará no adapter fazendo o bind dos componentes.
 
+![captura de tela de 2018-01-15 18-08-25](https://user-images.githubusercontent.com/5742609/34959791-301c9f98-fa1f-11e7-9cf5-063df6aca16f.png)
+
+O adapter eu mostro como setar os componentes e também como eu faço para implementar o onclick na versão do kotlin
+
+
+
 
 
 
