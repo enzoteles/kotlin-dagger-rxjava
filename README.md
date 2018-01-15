@@ -57,6 +57,11 @@
   Aqui criamos a classe MainModule do dagger na versão do kotlin conforme a figura abaixo:
   
   ![captura de tela de 2018-01-15 17-50-47](https://user-images.githubusercontent.com/5742609/34959215-a87da58e-fa1c-11e7-82dd-8035fc5026fd.png)
+  
+  Essa é a inteface que se comunica com o módulo do dagger confome abaixo:
+  
+  ![captura de tela de 2018-01-15 17-52-27](https://user-images.githubusercontent.com/5742609/34959313-19f0eb22-fa1d-11e7-966e-04f4a85e1ec3.png)
+
 
   
 
