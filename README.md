@@ -69,6 +69,9 @@
 e com isso chamaos o método callPresenter, nesse método instanciamos o interactor via dagger onde chamaos o método resultMsg 
 conforme a figura abaixo: 
 
+![captura de tela de 2018-01-15 18-00-57](https://user-images.githubusercontent.com/5742609/34959581-4b5db90a-fa1e-11e7-8a82-d50ca7674f30.png)
+
+
  
  
 
