@@ -53,6 +53,10 @@
   Nesse projeto estamos trabalhando com 5 pacotes com suas respectivas classes, conforme mostrado na figura abaixo:
   
   ![captura de tela de 2018-01-15 17-44-30](https://user-images.githubusercontent.com/5742609/34959125-138a84e2-fa1c-11e7-9cf4-46c3a2096089.png)
+  
+  Aqui criamos a classe MainModule do dagger na versão do kotlin conforme a figura abaixo:
+  
+  
 
   
   
