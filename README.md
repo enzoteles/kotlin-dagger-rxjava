@@ -81,6 +81,12 @@ O presenter vai enviar a lista de contatos para a view no método resultMsgView 
 
 O adapter eu mostro como setar os componentes e também como eu faço para implementar o onclick na versão do kotlin
 
+![captura de tela de 2018-01-15 18-11-05](https://user-images.githubusercontent.com/5742609/34959867-856df2ee-fa1f-11e7-95e1-b9782bf376a7.png)
+
+se vocês prestarem atenção no código ele está limpo e não tem todo aquela poluição do findviewbyid , por que estou utilizando o android extension, muito mais fácil e mais prático, mais informações no link abaixo:
+
+https://developer.android.com/ndk/guides/audio/android-extensions.html
+
 
 
 
